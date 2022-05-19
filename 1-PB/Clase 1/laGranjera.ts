@@ -1,0 +1,11 @@
+console.log("avazar");
+console.log("tapar");
+console.log("avazar");
+console.log("avazar");
+console.log("avazar");
+console.log("tapar");
+console.log("avazar");
+console.log("sacar");
+console.log("avazar");
+console.log("sacar");
+console.log("avazar");
